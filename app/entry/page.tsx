@@ -143,7 +143,7 @@ export default function EntryPage() {
         <header className="sticky top-0 z-30 bg-background/80 backdrop-blur-sm border-b border-border">
           <div className="flex items-center justify-between h-16 px-6 lg:px-8">
             <div className="ml-12 lg:ml-0">
-              <h1 className="text-xl font-semibold text-foreground">입장관리</h1>
+              <h1 className="text-xl font-semibold text-foreground">실시간입장관리</h1>
               <p className="text-sm text-muted-foreground">
                 승인 완료된 신청자의 실제 입장 현황을 확인하고 처리하세요
               </p>

@@ -23,7 +23,7 @@ const navigation = [
   { name: '출입 신청', href: '/requests', icon: FileText },
   { name: '승인 대기', href: '/pending', icon: Clock },
   { name: '승인 완료', href: '/approved', icon: CheckCircle },
-  { name: '입장관리', href: '/entry', icon: LogIn },
+  { name: '실시간입장관리', href: '/entry', icon: LogIn },
 ];
 
 export function Sidebar() {
